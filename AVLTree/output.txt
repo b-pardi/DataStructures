@@ -1,0 +1,6 @@
+ (Height, BF, Val): (3, 0, 5); 
+ (Height, BF, Val): (2, 1, 3);  (Height, BF, Val): (2, -1, 7); 
+ (Height, BF, Val): (1, 1, 2); 
+ (Height, BF, Val): (0, 0, 4);  (Height, BF, Val): (0, 0, 6); 
+ (Height, BF, Val): (1, -1, 8); 
+ (Height, BF, Val): (0, 0, 1);  (Height, BF, Val): (0, 0, 9); 
